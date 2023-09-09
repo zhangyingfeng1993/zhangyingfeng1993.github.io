@@ -1,4 +1,6 @@
 Amesp1.1(dev)  
+Update time : 2023-09-09  
+New features : Range-separated functional cam-b3lyp.  
 Update time : 2023-09-05  
 New features : Improved efficiency of 4c2e and CPCM.  
 Update time : 2023-08-26  
