@@ -1,6 +1,6 @@
 Amesp1.1(dev)  
 Update time : 2023-10-05  
-New features : DFTB analytic Hessian. 
+New features : DFTB analytic Hessian.  
 Update time : 2023-09-14  
 New features : CM5 charge.  
 Update time : 2023-09-09  
